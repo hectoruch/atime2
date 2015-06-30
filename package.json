@@ -1,0 +1,24 @@
+{
+  "name": "presentacion robyt",
+  "version": "1.5.0",
+  "description": "robyt app presentacion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "supervisor app.js"
+  },
+  "keywords": [
+    "tutorialzine",
+    "remote",
+    "control",
+    "mobile",
+    "presentation",
+    "tutorial"
+  ],
+  "author": "Tutorialzine",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.11.0",
+    "socket.io": "^1.3.2"
+  }
+}
